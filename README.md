@@ -109,6 +109,36 @@ Engine testing files with ``/tests/test_models/test_engine``:
 >**test_file_storage.py** - tests if files are being stored correctly.
 
 >**console.py** - contains the entry point of the command interpreter.
+
+Front end step-by-step files ``/web_static``:
+>**0-index.html** - ``HTML`` page that displays a header & footer.
+>**1-index.html** - based on 0 + style & head tags.
+>
+>**2-index.html** - based on 1 + using ``CSS``.
+>**2-common.css** - for global style - ``CSS``.
+>**2-header.css** - for header style - ``CSS``.
+>**2-footer.css** - for footer style - ``CSS``.
+>
+>**3-index.html** - based on ``2-index.html``.
+>**3-common.css** - for global style - ``CSS``.
+>**3-header.css** - for header style - ``CSS``.
+>**3-footer.css** - for footer style - ``CSS``.
+>
+>**4-index.html** - based on ``3-index.html``.
+>**4-common.css** - for the global style (body and .container styles)
+>**4-filters.css** - for filters style - ``CSS``.
+>
+>**5-index.html** - based on ``4-index.html``.
+>**5-filters.css** - for filters style - ``CSS``.
+>
+>**6-index.html** - based on ``5-index.html``.
+>**6-filters.css** - for the filters style - ``CSS``.
+>
+>**7-index.html** - based on ``6-index.html``.
+>**7-places.css** - for the places style - ``CSS``.
+>
+>**8-index.html** - based on ``7-index.html``.
+>**8-places.css** - for the places style - ``CSS``.
 ---
 
 ## Authors
