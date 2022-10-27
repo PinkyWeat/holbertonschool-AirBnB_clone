@@ -113,7 +113,7 @@ Engine testing files with ``/tests/test_models/test_engine``:
 Front end step-by-step files ``/web_static``:
 >**0-index.html** - ``HTML`` page that displays a header & footer.
 >**1-index.html** - based on 0 + style & head tags.
->
+>>
 >**2-index.html** - based on 1 + using ``CSS``.
 >**2-common.css** - for global style - ``CSS``.
 >**2-header.css** - for header style - ``CSS``.
