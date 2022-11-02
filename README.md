@@ -11,7 +11,7 @@ This is the first step towards creating our own clone of the AirBnB webpage. For
 1) First you should type ``./console.py`` into the command interpret.
 2) Now that you are in the fully functional console, you have several features to choose from to use:
 
-> **Create** - with this feature you can create a new ``BaseModel`` and once you push enter it will show you the id of the new created ``BaseModel``.
+> **Create** - with this feature you can create a new ``BaseModel`` and once you push enter it will show you the id of the neww created ``BaseModel``.
 >
 > **Show** - this feature shows you the information of a specific ``BaseModel`` + id given.
 >
